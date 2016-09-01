@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+</head>
+<body>
+    <h1>Pseudogene search & align</h1>
+    <p>Enter a gene name.</p>
+    {% if error %}
+        <p style="color: red;">Please submit a search term.</p>
+    {% endif %}
+    <form action="" method="get">
+        <input type="text" name="gene">
+        <input type="submit" value="Get alignment">
+    </form>
+    {% if zero %}
+    <p style="color: blue;">There are no pseudogenes in this gene.</p>
+    {% endif %}
+</body>
+</html>
