@@ -17,4 +17,5 @@ from django.conf.urls import url, include
 
 urlpatterns = [
     url(r'^pseudogene/', include('pseudogene.urls')),
+    url(r'^brca/', include('brca.urls')),
 ]
