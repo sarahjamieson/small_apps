@@ -1,0 +1,42 @@
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6084698077	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4828131752	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4548308628	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465873174	Potential incorrect classification.	See "main" file.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465378742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.

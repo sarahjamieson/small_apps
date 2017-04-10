@@ -1,0 +1,60 @@
+4465873174	Potential incorrect classification.	See "main" file.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+Total variants reported more than once: 88.
+Total conflicts: 0.
+4465873174	Potential incorrect classification.	See "main" file.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+Total variants reported more than once: 88.
+Total conflicts: 0.

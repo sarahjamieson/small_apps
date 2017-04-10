@@ -1,0 +1,43 @@
+{% extends 'brca/base.html' %}
+
+{% block content %}
+
+{% load bootstrap %}
+
+{% if login %}
+<h1>Hello</h1>
+
+{% else %}
+<div class="container-fluid">
+    <div class="col-md-4">
+        <form role="form" method="post" action="{% url 'login' %}">
+            <h2>Login</h2>
+            {% csrf_token %}
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" class="form-control" id="username" name="username">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" name="password">
+            </div>
+            {% if messages %}
+                {% for message in messages %}
+                    {% if message.tag == 'error' %}
+                        <div class="alert alert-danger">
+                            <strong class="{{ message.tags }}">{{ message }}</strong>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Login</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+{% endif %}
+
+{% endblock %}
