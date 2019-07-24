@@ -8,6 +8,7 @@
     <div class="jumbotron">
         <h1>BRCA Data Extraction</h1>
     </div>
+    <div class="col-md-12">
     <h3>1. Extract data from Shire into a CSV file following the SOP.</h3>
     <br/>
     <h3>2. Upload the CSV file.</h3>
@@ -33,18 +34,29 @@
             {% endif %}
         {% endfor %}
     {% endif %}
-    <br/>
     <h3>3. The program produces a zip folder containing the following files:</h3>
     <ul style="font-size: 1.5em">
         <li>A "main" file for variants classed as 3-5.</li>
         <li>A "poly" file for variants classed as 1-2.</li>
         <li>An errors file.</li>
     </ul>
-    <br/>
+    </div>
+    {% if complete %}
+    <div class="alert alert-success col-md-5">
+        <strong>Extraction successful. Click <a href="{% url 'download' %}">here</a> to download results.</strong>
+    </div>
+    {% endif %}
+    {% if error %}
+    <div class="alert alert-danger col-md-5">
+        <strong>Mutalyzer connection exceeded. Please try again later.</strong>
+    </div>
+    {% endif %}
+    <div class="col-md-12">
     <h5>Note 1: the program is only able to detect previously seen errors. As HGVS nomenclatures and variant
         classifications are based on free-text sections there is a chance of unforeseen errors in the output.</h5>
     <h5>Note 2: the program currently relies on connecting with the Mutalyzer API which restricts user access. Input
         CSVs containing over 2 years of data may cause connection errors. </h5>
+    </div>
 </div>
 
 {% endblock %}

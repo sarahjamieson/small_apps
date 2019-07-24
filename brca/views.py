@@ -13,6 +13,7 @@ import socket
 import urllib2
 
 
+# http://stackoverflow.com/questions/15084597/django-error-message-for-login-form - try this for login forms
 def user_login(request):
     logout(request)
     if request.method == 'POST':
@@ -71,17 +72,11 @@ def home(request):
         form = UploadFileForm(request.POST, request.FILES)
         if form.is_valid():
             filepath = handle_uploaded_file(request.FILES['file'])
-
             try:
                 run_brca_extraction(filepath, "brca_output", "errors.txt", "/media/sf_sarah_share/BRCA_poly_list.xls")
-                download(request)
-                messages.success(request, "Extraction complete.")
-                form = UploadFileForm()
-                return HttpResponseRedirect(reverse_lazy('home'))
+                return render(request, 'brca/home.html', {'form': form, 'complete': True})
             except (socket.error, urllib2.URLError):
-                messages.error(request, "Mutalyzer connection exceeded. Please try again later.")
+                return render(request, 'brca/home.html', {'form': form, 'error': True})
     else:
         form = UploadFileForm()
     return render(request, 'brca/home.html', {'form': form})
-
-

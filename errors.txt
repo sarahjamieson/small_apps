@@ -156,3 +156,887 @@ Total conflicts: 0.
 4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
 4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
 4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+Total variants reported more than once: 88.
+Total conflicts: 0.
+4465873174	Potential incorrect classification.	See "main" file.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+Total variants reported more than once: 88.
+Total conflicts: 0.
+4465873174	Potential incorrect classification.	See "main" file.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+Total variants reported more than once: 88.
+Total conflicts: 0.
+4465873174	Potential incorrect classification.	See "main" file.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+Total variants reported more than once: 88.
+Total conflicts: 0.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6084698077	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4828131752	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4548308628	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465378742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062947066	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4200171694	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4908114382	Potential incorrect classification.	See "main" file.
+4905334322	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6082683587	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4460322714	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+4905005205	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+6224448698	Missing protein nomenclature.	See "main" file.
+6210214835	Missing protein nomenclature.	See "main" file.
+6087082794	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+4982311099	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+6085053037	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+6085821522	Missing protein nomenclature.	See "main" file.
+4060918652	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.*31C>T	Missing protein nomenclature.	See "poly" file.
+c.10110G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.10110G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.2082T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.1911T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.693G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5319G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.975G>A	Missing protein nomenclature.	See "poly" file.
+c.4653T>C	Missing protein nomenclature.	See "poly" file.
+c.8667A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4113G>A	Missing protein nomenclature.	See "poly" file.
+c.8430T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.21C>T	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.1395A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.7632C>T	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.627C>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4653T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.3627A>G	Missing protein nomenclature.	See "poly" file.
+c.2919G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4636G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.8421G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.1395A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.5529A>C	Missing protein nomenclature.	See "poly" file.
+c.7633G>A	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.3739G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.21C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.3636A>G).This	Missing protein nomenclature.	See "poly" file.
+c.927A>G	Missing protein nomenclature.	See "poly" file.
+c.9087G>A	Missing protein nomenclature.	See "poly" file.
+c.3515C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.2640T>C	Missing protein nomenclature.	See "poly" file.
+c.2919G>A	Missing protein nomenclature.	See "poly" file.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.5266dupC in BRCA1 reported as N and 5.
+c.3770_3771delAG in BRCA1 reported as N and 5.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.9329_9340del12 in BRCA2 reported as 5 and 3.
+c.4675G>A in BRCA1 reported as 5 and U.
+c.81-12C>G in BRCA1 reported as 2 and 3.
+c.693G>A in BRCA1 reported as 3 and 2.
+c.7643A>G in BRCA2 reported as 3 and 2.
+c.3515C>T in BRCA2 reported as 2 and 3.
+c.4986+4A>T in BRCA1 reported as 5 and U.
+c.3640G>A in BRCA1 reported as 2 and 3.
+c.-9T>C in BRCA2 reported as 3 and 2.
+c.6821G>T in BRCA2 reported as 2 and 3.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.7988A>T in BRCA2 reported as 4 and 5.
+c.7988A>T in BRCA2 reported as 4 and 5.
+c.3682A>G in BRCA2 reported as N and 3.
+c.7988A>T in BRCA2 reported as 4 and 5.
+Total variants reported more than once: 1167.
+Total conflicts: 20.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4200171694	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4200171694	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4200171694	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6084698077	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4828131752	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4548308628	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465378742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062947066	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4908114382	Potential incorrect classification.	See "main" file.
+4905334322	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6082683587	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6225635726	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4883258068	Unspecified tumour studies.	Check results.
+4843667226	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702592	Unspecified tumour studies.	Check results.
+6049647119	Unspecified tumour studies.	Check results.
+4465930569	Unspecified tumour studies.	Check results.
+6106404704	Potential missed variant.	See "main" file.
+4901933477	Unspecified tumour studies.	Check results.
+6307549424	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6100702584	Unspecified tumour studies.	Check results.
+6251531495	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4084986372	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4741989844	Unspecified tumour studies.	Check results.
+6285973318	Unspecified tumour studies.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089532797	Both a positive and negative result has been found for patient.	See "main" file.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089524905	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6090062502	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6300144275	Both a positive and negative result has been found for patient.	See "main" file.
+4267374627	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465721277	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4888514135	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4547366381	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4901689185	Potential missed variant.	See "main" file.
+4465873174	Potential incorrect classification.	See "main" file.
+4729792742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4761578920	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4844031473	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4200171694	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6515772963	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6084698077	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4828131752	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4548308628	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4465378742	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062947066	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4908114382	Potential incorrect classification.	See "main" file.
+4905334322	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6082683587	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+4460322714	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+4905005205	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+6224448698	Missing protein nomenclature.	See "main" file.
+6210214835	Missing protein nomenclature.	See "main" file.
+6087082794	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+4982311099	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+6085053037	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+6085821522	Missing protein nomenclature.	See "main" file.
+4060918652	If this is a silent change, this should be in the format e.g. p.(Leu54=).	See "main" file.
+c.3113A>G	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.*31C>T	Missing protein nomenclature.	See "poly" file.
+c.10110G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.10110G>A	Missing protein nomenclature.	See "poly" file.
+c.2082T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.1911T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.693G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.5319G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.975G>A	Missing protein nomenclature.	See "poly" file.
+c.4653T>C	Missing protein nomenclature.	See "poly" file.
+c.8667A>G	Missing protein nomenclature.	See "poly" file.
+c.4113G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.10023C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.8430T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.21C>T	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.1395A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.7632C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.627C>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4653T>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.5901G>A	Missing protein nomenclature.	See "poly" file.
+c.8586A>G	Missing protein nomenclature.	See "poly" file.
+c.570C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.981A>G	Missing protein nomenclature.	See "poly" file.
+c.2733A>G	Missing protein nomenclature.	See "poly" file.
+c.51T>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9864A>G	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.4584C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.3627A>G	Missing protein nomenclature.	See "poly" file.
+c.2919G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4636G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.8421G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.1395A>C	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4686A>G	Missing protein nomenclature.	See "poly" file.
+c.9606G>C	Missing protein nomenclature.	See "poly" file.
+c.5529A>C	Missing protein nomenclature.	See "poly" file.
+c.7633G>A	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.3739G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4812A>G	Missing protein nomenclature.	See "poly" file.
+c.21C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.3636A>G).This	Missing protein nomenclature.	See "poly" file.
+c.927A>G	Missing protein nomenclature.	See "poly" file.
+c.9087G>A	Missing protein nomenclature.	See "poly" file.
+c.3515C>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.4644G>A	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.9976A>T	Missing protein nomenclature.	See "poly" file.
+c.6317T>C	Missing protein nomenclature.	See "poly" file.
+c.2919G>A	Missing protein nomenclature.	See "poly" file.
+c.2640T>C	Missing protein nomenclature.	See "poly" file.
+c.5266dupC in BRCA1 reported as N and 5.
+c.3770_3771delAG in BRCA1 reported as N and 5.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.9329_9340del12 in BRCA2 reported as 5 and 3.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.4675G>A in BRCA1 reported as 5 and U.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.-9T>C in BRCA2 reported as 3 and 2.
+c.81-12C>G in BRCA1 reported as 2 and 3.
+c.7643A>G in BRCA2 reported as 3 and 2.
+c.693G>A in BRCA1 reported as 3 and 2.
+c.3515C>T in BRCA2 reported as 2 and 3.
+c.4986+4A>T in BRCA1 reported as 5 and U.
+c.3640G>A in BRCA1 reported as 2 and 3.
+c.6821G>T in BRCA2 reported as 2 and 3.
+c.4868C>G in BRCA1 reported as 5 and 3.
+c.7988A>T in BRCA2 reported as 4 and 5.
+c.7988A>T in BRCA2 reported as 4 and 5.
+c.5207T>C in BRCA1 reported as 4 and 5.
+c.3682A>G in BRCA2 reported as N and 3.
+c.7988A>T in BRCA2 reported as 4 and 5.
+c.7988A>T in BRCA2 reported as 4 and 5.
+c.5123C>A in BRCA1 reported as 4 and 5.
+Total variants reported more than once: 1291.
+Total conflicts: 23.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089970085	No cDNA Change detected.	See "main" file.
+6087130837	No cDNA Change detected.	See "main" file.
+3534727428	No cDNA Change detected.	See "main" file.
+c.21C>T	Error in protein nomenclature.	See "poly" file.
+c.2428A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.198A>G	Missing protein nomenclature.	See "poly" file.
+c.231T>G	Error in protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.2919G>A	Error in protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.7988A>T in BRCA2 reported as 5 and 4.
+c.1961delA in BRCA1 reported as 1 and 5.
+c.1961delA in BRCA1 reported as 1 and 5.
+Total variants reported more than once: 183.
+Total conflicts: 3.
+6087930051	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6062769605	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6518839864	Unable to extract results from summary line.	See original file.
+6068589064	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6517975152	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6285973318	Unable to extract results from summary line.	See original file.
+6243532259	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3742349406	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+3212038764	Has had amended report, please check for duplicates or nomenclature changes.	Check results.
+6089970085	No cDNA Change detected.	See "main" file.
+6087130837	No cDNA Change detected.	See "main" file.
+3534727428	No cDNA Change detected.	See "main" file.
+c.21C>T	Error in protein nomenclature.	See "poly" file.
+c.2428A>T	Missing protein nomenclature.	See "poly" file.
+c.4600G>A	Missing protein nomenclature.	See "poly" file.
+c.*36C>G	Missing protein nomenclature.	See "poly" file.
+c.198A>G	Missing protein nomenclature.	See "poly" file.
+c.231T>G	Error in protein nomenclature.	See "poly" file.
+c.1275A>G	Missing protein nomenclature.	See "poly" file.
+c.1788T>C	Missing protein nomenclature.	See "poly" file.
+c.2919G>A	Error in protein nomenclature.	See "poly" file.
+c.7469T>C	Error in protein nomenclature.	See "poly" file.
+c.9976A>T	Error in protein nomenclature.	See "poly" file.
+c.*105A>C	Missing protein nomenclature.	See "poly" file.
+c.7988A>T in BRCA2 reported as 5 and 4.
+c.1961delA in BRCA1 reported as 1 and 5.
+c.1961delA in BRCA1 reported as 1 and 5.
+Total variants reported more than once: 183.
+Total conflicts: 3.

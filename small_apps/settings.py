@@ -25,7 +25,7 @@ SECRET_KEY = '41*duxbjtw)-qc#=335c_7w=mveaida1s)ixwc(i!enc($wshu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'pseudogene',
     'brca',
     'bootstrapform',
+    'django_tables2'
 ]
 
 MIDDLEWARE_CLASSES = [

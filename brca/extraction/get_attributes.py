@@ -168,7 +168,6 @@ def get_genome_hgvs(genome_build, ref_seq, cdna_hgvs):
         genome_hgvs = find_hgvs.group(0)[1:-1]
     else:
         genome_hgvs = ""
-    print genome_hgvs
 
     return genome_hgvs
 

@@ -53,7 +53,9 @@ def run_brca_extraction(input_csv, output_prefix, error_file, poly_file):
             summary = row[11]
             report = row[13]
 
-            if row[0] and row[14] != "PP" and not re.match("Tumour\sstudies|RNA|Variant\supdate|Variant\sreview", row[8]):
+            if row[0] and row[14] != "PP" and not re.match(
+                    "Tumour\sstudies|RNA|Variant\supdate|Variant\sreview", row[8]
+            ) and not re.match("VARIANT\sREVIEW", summary):
                 with open(error_file, "ab+") as errors:
                     if "heterozygous missense mutation" in summary.lower():
                         errors.write(
@@ -126,7 +128,7 @@ def run_brca_extraction(input_csv, output_prefix, error_file, poly_file):
                         if gene == "BRCA1" or gene == "BRCA2":
                             if gene == "BRCA1":
                                 refseq = "NM_007294.3"
-                            elif gene=="BRCA2":
+                            elif gene == "BRCA2":
                                 refseq = "NM_000059.3"
                             g_hgvs = get_genome_hgvs("hg19", refseq, c_hgvs)
                             var_df = pd.DataFrame([[row[0], row[3], row[4], row[2], row[15], row[8], gene, refseq, g_hgvs,
@@ -290,14 +292,16 @@ def run_brca_extraction(input_csv, output_prefix, error_file, poly_file):
                                 all_classes_in_row.append(var_class)
 
                 # (vii) Two sequencing results in two sentences.
-                else:
+                elif len(summaries) == 2 and len(variants) == 2:
                     summary_split = re.split(r"\.\s|\\n", summary)
-
+                    print summary_split
                     for item in summary_split:
                         gene = get_gene(item)
                         item_index = summary_split.index(item)
+                        print item_index
                         if gene == "BRCA1" or gene == "BRCA2":
                             var_class = get_class(item)
+                            print variants
                             c_hgvs = variants[item_index]
                             if "-" in c_hgvs or "+" in c_hgvs:
                                 p_hgvs = ""
@@ -319,6 +323,11 @@ def run_brca_extraction(input_csv, output_prefix, error_file, poly_file):
                                                     c_hgvs, p_hgvs, var_class, row[9]]], columns=full_col_list)
                             all_results_df = all_results_df.append(var_df)
                             all_classes_in_row.append(var_class)
+
+                else:
+                    with open(error_file, "ab+") as errors:
+                        errors.write(
+                            "{nhs_no}\tUnable to extract results from summary line.\tSee original file.\n".format(nhs_no=row[0]))
 
                 with open(error_file, "ab+") as errors:
                     if "N" in all_classes_in_row and (
@@ -388,20 +397,20 @@ def run_brca_extraction(input_csv, output_prefix, error_file, poly_file):
     for row_index, row in all_results_df.iterrows():
         cdna = row["cDNA Change"]
         gene = row["Gene"]
-        report_date = datetime.datetime.strptime(row["Sample Report Date"], "%d/%m/%y")
+        report_date = datetime.datetime.strptime(row["Sample Report Date"], "%d/%m/%Y")
         combined_lookup = "{cdna}&{gene}".format(cdna=cdna, gene=gene)
 
         if combined_lookup in rna_studies:
             rna_result = rna_studies.get(combined_lookup).split("&")
             rna_class = rna_result[0]
-            rna_date = datetime.datetime.strptime(rna_result[1], "%d/%m/%y")
+            rna_date = datetime.datetime.strptime(rna_result[1], "%d/%m/%Y")
             if rna_date > report_date:
                 all_results_df = all_results_df.set_value(row_index, "Assigned Pathogenicity Score", rna_class)
 
         if combined_lookup in updates:
             update_result = updates.get(combined_lookup).split("&")
             new_class = update_result[0]
-            update_date = datetime.datetime.strptime(update_result[1], "%d/%m/%y")
+            update_date = datetime.datetime.strptime(update_result[1], "%d/%m/%Y")
             if update_date > report_date:
                 all_results_df = all_results_df.set_value(row_index, "Assigned Pathogenicity Score", new_class)
 

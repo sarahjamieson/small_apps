@@ -2,6 +2,8 @@ from django.shortcuts import render
 from search import get_pseudogene_ids, create_fasta
 from create_html import create_html
 import os
+from pseudogene.forms import *
+from pseudogene.tables import *
 
 
 def search_form(request):
@@ -25,3 +27,17 @@ def search_form(request):
                 return render(request, 'pseudogene/results.html', {'html_page': html_page})
 
     return render(request, 'pseudogene/index.html', {'error': error, 'zero': zero_pseudo})
+
+
+def test_forms(request):
+    form = Form1()
+    table = AnotherTable.make_table([1, 2, 3])
+
+    if request.method == 'POST':
+
+        this_form = Form1(request.POST)
+        if this_form.is_valid():
+            this_obj = this_form.save(commit=False)
+
+    return render(request, 'pseudogene/test.html', {'form': form, 'table': table})
+
